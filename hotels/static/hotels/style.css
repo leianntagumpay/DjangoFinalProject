@@ -115,3 +115,8 @@ footer {
     border-radius: 8px;
 }
 
+.location {
+    font-size: 14px;
+    color: saddlebrown;
+    margin: 5px 0;
+}
